@@ -1,2 +1,2 @@
 # TP-OS
-Archivos .C/C++ de la asugnatura sistemas operativos
+Archivos .C/C++ de la asignatura sistemas operativos
